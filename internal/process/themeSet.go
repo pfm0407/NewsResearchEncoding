@@ -2,7 +2,7 @@ package process
 
 import "fmt"
 
-func themeSet() string {
+func ThemeSet() string {
 	//Start
 	fmt.Println("themeSet_Start")
 	return "themeSet_Start"
